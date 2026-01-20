@@ -21,3 +21,31 @@ Dark theme, cards layout, round artist images
 📱 Responsive grid using Flexbox & CSS Grid
 
 ⚡ Lightweight & beginner-friendly
+
+🛠 Tech Stack
+
+HTML5 – Structure
+
+CSS3 – Styling (Flexbox + Grid)
+
+JavaScript – Basic interactivity
+
+📁 Folder Structure
+spotify-ui/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+▶ How to Run the Project
+
+Clone or download the repository
+
+Open the folder
+
+Double-click index.html
+
+Project will run in your browser 🚀
+
+No server or setup required
