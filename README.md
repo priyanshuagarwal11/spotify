@@ -1,7 +1,8 @@
-🎧 Spotify Home Page Clone
+🎧 Spotify Home Page Clone:
 
 A Spotify-inspired web UI clone built using HTML, CSS, and JavaScript.
 This project focuses on recreating the Spotify Home layout with sidebar, trending songs, and popular artists—similar to the official Spotify web app.
+
 
 📸 Preview
 
